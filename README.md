@@ -1,37 +1,37 @@
-#live link
+## live link
 
 https://ajaykale21.github.io/currencyconverter/
 
-#Currency Converter
+## Currency Converter
 
-This is a simple web-based currency converter that allows users to convert between different currencies.
-The project includes an HTML page, CSS styles, and JavaScript code to enable the conversion functionality
+- This is a simple web-based currency converter that allows users to convert between different currencies.
+- The project includes an HTML page, CSS styles, and JavaScript code to enable the conversion functionality
 
-#Description
+## Description
 
 The Currency Converter is a web application that provides a user-friendly interface to convert currencies. 
 It fetches exchange rates dynamically and allows users to input the amount, select the source currency, and choose the target currency for conversion
 
-#Features
+## Features
 
-Input amount for conversion
+- Input amount for conversion
 
-Select source and target currencies
+- Select source and target currencies
 
-Display exchange rate information
+- Display exchange rate information
 
-Get real-time exchange rates using JavaScript
+- Get real-time exchange rates using JavaScript
 
 
-#Usage
+## Usage
 
-Open the index.html file in a web browser.
+- Open the index.html file in a web browser.
 
-Enter the amount to be converted in the "Enter Amount" field.
+- Enter the amount to be converted in the "Enter Amount" field.
 
-Select the source currency from the "From" dropdown.
+- Select the source currency from the "From" dropdown.
 
-Select the target currency from the "To" dropdown.
+- Select the target currency from the "To" dropdown.
 
-Click the "Get Exchange Rate" button to display the exchange rate information
+- Click the "Get Exchange Rate" button to display the exchange rate information
 
